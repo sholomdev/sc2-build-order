@@ -1,2 +1,4 @@
 - as a user, I shall be able to upload a sc2 build order text
+  - show an error if the build order is empty
+  - show an error if the matchup is not selected
 - as a user, I shall be able to view build ordres based on matchup
